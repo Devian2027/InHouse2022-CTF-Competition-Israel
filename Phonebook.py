@@ -2,7 +2,7 @@ import requests
 import string
 
 headers = {"UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"}
-url = "http://46.101.55.65:32325/login"
+url = "http://138.68.173.73:30739/login"
 
 chars = string.ascii_letters
 chars += ''.join(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '`', '~', '!', '@', '$', '%', '&', '-', '_', "'"])

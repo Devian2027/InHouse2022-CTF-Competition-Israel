@@ -20,12 +20,12 @@ const checkPassword = () => {
   }
 }
 
-we have the 12 encoded characters for 12 correct characters
+//we have the 12 encoded characters for 12 correct characters
 
-const encoded_pass = [52037, 52077, 52077, 52066, 52046, 52063, 52081, 52081, 52085, 52077, 52080, 52066]
+//const encoded_pass = [52037, 52077, 52077, 52066, 52046, 52063, 52081, 52081, 52085, 52077, 52080, 52066]
 
 
-The script:
+//The script:
 
 
 const encoded_pass = [52037, 52077, 52077, 52066, 52046, 52063, 52081, 52081, 52085, 52077, 52080, 52066]
@@ -35,4 +35,4 @@ for(let character of encoded_pass) {
    }
 console.log(pass)
 
-This script we will print in the console
+//This script we will print in the console
